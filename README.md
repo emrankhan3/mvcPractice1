@@ -1,2 +1,2 @@
 # mvcPractice1
-practicing mvc pattern
+practicing mvc Architechture
