@@ -1,3 +1,4 @@
+const users = requre('./models/users.model')
 exports.getUsers = (req,res) => {
     res.send('bismillah')
 };

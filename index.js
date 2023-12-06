@@ -11,12 +11,6 @@ const htmlForm =`
         <button type='submit' name='btn'>save</button>
     </form>
 `
-let users = [
-    { name: 'John', age:42},
-    { name: 'khaled', age:94}
-]
-
-
 
 
 app.use((req,res,next)=>{
